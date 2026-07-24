@@ -4,12 +4,6 @@
   <strong>Seamlessly swap your Trident between Riptide and Throwing modes instantly!</strong>
 </p>
 
-<p align="center">
-  <img src="https://shields.io" alt="Minecraft Version">
-  <img src="https://shields.io" alt="Fabric">
-  <img src="https://shields.io" alt="Client-Side">
-</p>
-
 ---
 
 ## ✨ Features
