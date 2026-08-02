@@ -1,52 +1,81 @@
-# 🔱 DynamicTrident
-
 <p align="center">
-  <strong>Seamlessly swap your Trident between Riptide and Throwing modes instantly!</strong>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/dynamictrident">
+   <img width="250" height="250" alt="dynamic trident" src="https://github.com/user-attachments/assets/5e7916a4-41de-43db-a098-e905b4ffc0d4" />
+  </a>
 </p>
 
----
+<h1 align="center">DynamicTrident</h1>
 
-## ✨ Features
+<p align="center">
+  <strong>One Trident. Every Enchantment. Total Control.</strong>
+</p>
 
-Ever wanted to use **Riptide** to soar through the rain, but hate losing the ability to throw your trident at enemies? **DynamicTrident** solves this vanilla limitation completely!
+**DynamicTrident** is a lightweight quality-of-life mod that removes one of Minecraft's most frustrating enchantment restrictions. Instead of forcing players to choose between **Riptide** and **Loyalty/Channeling**, DynamicTrident lets a single trident use all three enchantments by introducing a simple toggleable mode system.
 
-* 🔄 **Instant Mode Swapping:** Toggle your trident's behavior instantly with a customizable hotkey.
-* ⚔️ **Vanilla Balance:** Bypasses vanilla's mutual exclusivity rules without changing how weapon damage or loyalty mechanics work.
-* 🌐 **100% Client-Side:** Works perfectly on any multiplayer server or Realm without needing the server to install the mod!
-
----
-
-## 🎮 How to Use
-
-1. **Enchant Your Weapon:** Get a trident and apply **Riptide**, **Loyalty**, or **Channeling** (or all of them at once!).
-2. **Set Your Keybind:** Go to Minecraft's **Controls / Keybinds** menu and look for the **DynamicTrident** section to assign your toggle key.
-3. **Switch on the Fly:** Press your chosen keybind in-game to instantly shift between flight mode and combat throwing mode.
+Switch between **Throw Mode** and **Riptide Mode** instantly without ever removing enchantments, crafting multiple tridents, or compromising vanilla gameplay.
 
 ---
 
-## 🛠️ Compilation & Local Setup
+# Features
 
-If you want to build the mod yourself from this source code, follow these quick steps:
+<table>
+<tr>
+<td width="240" valign="top" align="center">
 
-### 1. Clone the repository
-```bash
-git clone https://github.com
-cd dynamictrident
-```
+<img width="310" height="200" alt="image" src="https://github.com/user-attachments/assets/fd8db79d-a9e5-48b4-93a8-81c38df60adf" />
 
-### 2. Run the development client locally
-```bash
-./gradlew runClient
-```
 
-### 3. Build the production release
-```bash
-./gradlew build
-```
-The finished, ready-to-play `.jar` file will be generated inside the `build/libs/` directory.
+</td>
+<td valign="top">
+
+## Loyalty Mode
+
+Use your trident exactly like vanilla.
+
+- Loyalty returns your trident after every throw.
+- Channeling summons lightning during thunderstorms.
+- Fully supports Impaling and every vanilla mechanic.
+- No gameplay changes while this mode is active.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📦 Downloads & Links
+<table>
+<tr>
+<td width="240" valign="top" align="center">
+<img width="310" height="200" alt="image" src="https://github.com/user-attachments/assets/9c884ee8-d9ef-4993-a510-001da2de34ea" />
 
-* 🌌 [Find us on Modrinth](https://modrinth.com)
+</td>
+<td valign="top">
+
+## Riptide Mode
+
+Launch yourself without sacrificing your enchantments.
+
+- Works in water and rain like vanilla Riptide.
+- Keeps the trident in your hand.
+- Uses vanilla-inspired movement, sounds, particles, and cooldowns.
+- No enchantments are removed or swapped.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Why DynamicTrident?
+
+- No more carrying multiple tridents.
+- No more choosing between mobility and utility.
+- Trident modes synchronize between client and server.
+- Fits naturally into vanilla Minecraft.
+- Perfect for survival, multiplayer, and adventure worlds.
+
+---
+
+## One Trident. Every Enchantment. Endless Possibilities.
+
+https://www.curseforge.com/minecraft/mc-mods/dynamictrident
